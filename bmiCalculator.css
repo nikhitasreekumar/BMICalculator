@@ -7,7 +7,7 @@
 }
 #a2{
 margin-top: 30px;
-color: azure;
+color: deepskyblue;
 font-style: italic;
 font-family: cursive;
 }
@@ -15,3 +15,9 @@ font-family: cursive;
 .a1{
     border-radius: 30px;
 }
+@media screen and (min-width: 1000px) and (orientation: landscape) {
+    body {
+      color: black
+    }
+  }
+  
