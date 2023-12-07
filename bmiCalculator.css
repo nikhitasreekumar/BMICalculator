@@ -8,8 +8,9 @@
 #a2{
 margin-top: 30px;
 color: deepskyblue;
-font-style: italic;
-font-family: cursive;
+font-style: normal;
+text-decoration: underline;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .a1{
